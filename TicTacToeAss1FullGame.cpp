@@ -1,7 +1,7 @@
 //============================================================================
-// Name        : TicTacToeAss1FullGame.cpp
+// Name        : TicTacToeAss1FullGame 2 Players and AI Version.
 // Author      : Mostafa Omar Mahmoud El-Sayed
-// ID		   : 20170292
+// ID	       : 20170292
 //============================================================================
 
 #include <bits/stdc++.h>
